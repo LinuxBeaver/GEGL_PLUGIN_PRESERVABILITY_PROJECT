@@ -32,5 +32,4 @@ But we also have precompiled binaries for Windows and Linux
 
  /home/(USERNAME)/.var/app/org.gimp.GIMP/data/gegl-0.4/plug-ins
 
-THEN RESTART GIMP AND GO TO GEGL OPERATIONS and look for Modify Selection in Gimp 2.99.16+ it will be in the main menu in Selection
-Gimp 2.99+ users will see this in filters>text styling>custom bevel
+Then restart Gimp and go to "GEGL OPERATION" and look for them
