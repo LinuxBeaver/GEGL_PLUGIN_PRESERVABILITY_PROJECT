@@ -1,3 +1,5 @@
+USING THIS WILL BREAK ALL CURRENT GEGL PLUGINS. THESE TWO BRANCHES CANNOT CO-EXIST
+
 ## This is a special repo featuring all my plugins meant for GEGL-0.4.46 and up
 ![image](https://github.com/LinuxBeaver/GEGL_PLUGIN_PRESERVABILITY_PROJECT/assets/78667207/1d50c68d-8d05-4b67-be90-96a47650ee82)
 
