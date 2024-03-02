@@ -1,0 +1,5 @@
+THIS PLUGIN CRASHES IN GIMP 3 FOR SOME REASON. I DON'T KNOW WHY 
+  GEGL WARNING
+(../gegl/buffer/gegl-tile.c:127):gegl_tile_dup: runtime check failed: (! src->damage)
+
+
