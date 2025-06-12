@@ -13,7 +13,7 @@
  * You should have received a copy of the GNU Lesser General Public
  * License along with GEGL; if not, see <https://www.gnu.org/licenses/>.
  *
- * Copyright 2006 Øyvind Kolås <pippin@gimp.org>
+ * Credit to Øvind Kolas (pippin) for major GEGL contributions
  * 2023 Beaver, Extract thin structures (hair extractor)
 
 Test this filter without installing by running this syntax inside Gimp's GEGL graph filter.This filter uses my gegl SSG plugin's syntax, but it does not ship with SSG, just a static graph of it at 1% radius.

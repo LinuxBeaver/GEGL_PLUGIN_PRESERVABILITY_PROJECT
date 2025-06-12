@@ -13,7 +13,7 @@
  * You should have received a copy of the GNU Lesser General Public
  * License along with GEGL; if not, see <https://www.gnu.org/licenses/>.
  *
- * Copyright 2006 Øyvind Kolås <pippin@gimp.org>
+ * Credit to Øvind Kolas (pippin) for major GEGL contributions
  * 2023 - Marble Gimp Plugin by Beaver
 If you paste this syntax in Gimp's GEGL Graph filter you can test this filter without installing
 The syntax is also listed so users can study how this filter was made.

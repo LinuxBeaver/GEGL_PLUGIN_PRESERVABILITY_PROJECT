@@ -13,7 +13,7 @@
  * You should have received a copy of the GNU Lesser General Public
  * License along with GEGL; if not, see <https://www.gnu.org/licenses/>.
  *
- * Copyright 2006 Øyvind Kolås <pippin@gimp.org>
+ * Credit to Øvind Kolas (pippin) for major GEGL contributions
  * GEGL Pencil, 2022 Beaver programmed filter) 2022 "cli345 Gimpchat.com' (Discoverer of the GEGL operations that made the filter)
 
 
